@@ -1,0 +1,23 @@
+html, body { 
+    height: 100%; 
+    width: 100%; 
+    margin: 0; 
+}
+
+#map-wrapper {
+    height: 100%;
+    /*margin-right: 200px;*/
+}
+
+#map { 
+    float: left;
+    height: 100%; 
+    width: 100%; 
+    background: #F52887; 
+}
+
+#list {
+    float: left;
+    width: 200px;
+    margin-left: -200px;
+}
